@@ -37,6 +37,7 @@ namespace Lab_5
             Console.Write("Manager: ");
             Manager manager = new Manager("Ahmed", 500.30M);
             manager.DisplayDetails();
+            //Manager Objected Created here (Shahzad)
         }
     }
 }
