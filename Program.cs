@@ -42,6 +42,14 @@ namespace Lab_5
             int number 1 = Convert.ToInt32(Console.ReadLine());
             Console.WriteLine("enter the number 2");
             int number 2 = Convert.ToInt32(Console.ReadLine());
+            //Github practice Lab 5
+            Console.WriteLine("enter first num");
+            int number 1 = Convert.ToInt32(Console.ReadLine());
+            Console.WriteLine("enter second num");
+            int number 2 = Convert.ToInt32(Console.ReadLine());
+            int sum;
+            sum = number1 + number2;
+            Console.WriteLine("sum of number is :"+sum);
             
             
         }
